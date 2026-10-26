@@ -27,7 +27,7 @@ The work uses **Python, pandas, and Plotly** to clean and reshape government dat
 
 - **[Open the Jupyter notebook](Alaina_immigration_analysis_final.ipynb)** — complete project code, written analysis, tables, and saved visualization outputs.
 
-The written research report is undergoing revision and **has not been uploaded**.
+- **[Read the completed research report (PDF)](reports/US_Immigration_Research_Report_2026.pdf)** — five-page report with methods, figures, key results, and limitations.
 
 ## Source data and reproducibility
 
@@ -46,4 +46,4 @@ Python · pandas · NumPy · Plotly · Matplotlib · Jupyter Notebook
 
 ---
 
-*Research findings and interpretations are documented in the linked notebook. A separate report will be added after its revisions are complete.*
+*Research findings, caveats, and source references are documented in the completed report and notebook. The analysis is descriptive and does not establish causal effects of immigration policies.*
